@@ -7,6 +7,12 @@ Project Submission:
 2. With in that branch there should be readme.txt file, where it should have detailed explanation of project with screenshots.
 3. The code should be of DB scheme (TSQL code), ASP.NET MVC(C# code and Rest services).
 
+This Task will be created both on MVC and API
+1. One Part Will be working directly with Mvc Architecture
+2. another part will be working on API by Consuming API into MVC
+3. All these fields will be using validation with good Bootstrap layout and popup msgs on success
+4. MVC module will be using Ado.net and API module will be using EF
+5. perform Complete Curd Operations
 
 ## Steps for Adding a book
 
